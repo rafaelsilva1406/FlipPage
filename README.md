@@ -2,6 +2,9 @@
 
 A React-based magazine website featuring fully animated flip page transitions with edge-to-edge design.
 
+## Checkout Github Pages
+Visit https://rafaelsilva1406.github.io/FlipPage/
+
 ## Quick Start
 
 ### Using Docker (Recommended)
